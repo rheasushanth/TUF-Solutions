@@ -6,19 +6,20 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 0 | 3 | 0 | `2026-10-10` |
+| **4** | 0 | 4 | 0 | `2026-10-11` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (3)
+### DSA (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.py) [Solution-3](./DSA/General/majority-element-i/Solution-3.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0002 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0003 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0001 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [PY](./DSA/General/kadane's-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0002 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.py) [Solution-3](./DSA/General/majority-element-i/Solution-3.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0003 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0004 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
 
 ---
 
