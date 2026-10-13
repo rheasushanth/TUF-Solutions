@@ -6,27 +6,28 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **11** | 0 | 11 | 0 | `2026-10-13` |
+| **12** | 0 | 12 | 0 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (11)
+### DSA (12)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [22. Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [PY](./DSA/Linked-List/detect-a-loop-in-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
-| 0002 | [99. House robber](./DSA/General/house-robber) | [PY](./DSA/General/house-robber/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0003 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [PY](./DSA/General/kadane's-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0004 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.py) [Solution-3](./DSA/General/majority-element-i/Solution-3.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0005 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [PY](./DSA/General/majority-element-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0006 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [PY](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0007 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0008 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0009 | [141. Rabin Karp Algorithm](./DSA/General/rabin-karp-algorithm) | [PY](./DSA/General/rabin-karp-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0010 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [PY](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0011 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0001 | [93. Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-ll) | [PY](./DSA/Linked-List/add-two-numbers-in-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0002 | [22. Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [PY](./DSA/Linked-List/detect-a-loop-in-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0003 | [99. House robber](./DSA/General/house-robber) | [PY](./DSA/General/house-robber/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0004 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [PY](./DSA/General/kadane's-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0005 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.py) [Solution-3](./DSA/General/majority-element-i/Solution-3.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0006 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [PY](./DSA/General/majority-element-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0007 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [PY](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0008 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0009 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0010 | [141. Rabin Karp Algorithm](./DSA/General/rabin-karp-algorithm) | [PY](./DSA/General/rabin-karp-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0011 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [PY](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0012 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 
 ---
 
