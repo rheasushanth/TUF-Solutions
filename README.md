@@ -16,7 +16,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [21. 3 Sum](./DSA/General/3-sum) | [PY](./DSA/General/3-sum/solution.py) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0001 | [21. 3 Sum](./DSA/General/3-sum) | [PY](./DSA/General/3-sum/solution.py) [Solution-2](./DSA/General/3-sum/Solution-2.py) | ⚪ Unspecified | `General` | `2026-10-23` |
 | 0002 | [93. Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-ll) | [PY](./DSA/Linked-List/add-two-numbers-in-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
 | 0003 | [22. Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [PY](./DSA/Linked-List/detect-a-loop-in-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
 | 0004 | [138. Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [Solution-2](./DSA/General/find-the-repeating-and-missing-number/Solution-2.py) | ⚪ Unspecified | `General` | `2026-10-21` |
