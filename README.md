@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | 0 | 31 | 0 | `2026-11-01` |
+| **32** | 0 | 32 | 0 | `2026-11-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (31)
+### DSA (32)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -31,22 +31,23 @@
 | 0013 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [PY](./DSA/General/kadane's-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-11` |
 | 0014 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [PY](./DSA/Linked-List/length-of-loop-in-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-11-01` |
 | 0015 | [97. Longest Consecutive Sequence in an Array](./DSA/Arrays/longest-consecutive-sequence-in-an-array) | [PY](./DSA/Arrays/longest-consecutive-sequence-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
-| 0016 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.py) [Solution-3](./DSA/General/majority-element-i/Solution-3.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0017 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [PY](./DSA/General/majority-element-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0018 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [PY](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0019 | [65. Merge two Sorted Lists](./DSA/Arrays/merge-sorted-lists-) | [PY](./DSA/Arrays/merge-sorted-lists-/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
-| 0020 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [PY](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0021 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [PY](./DSA/Recursion/next-permutation/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-23` |
-| 0022 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0023 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0024 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [Solution-2](./DSA/Bit-Manipulation/power-set-bit-manipulation/Solution-2.py) [PY](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.py) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-01` |
-| 0025 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [PY](./DSA/General/print-all-primes-till-n/solution.py) | ⚪ Unspecified | `General` | `2026-10-19` |
-| 0026 | [141. Rabin Karp Algorithm](./DSA/General/rabin-karp-algorithm) | [PY](./DSA/General/rabin-karp-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0027 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [PY](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-11-01` |
-| 0028 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [PY](./DSA/Bit-Manipulation/single-number---ii/solution.py) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-01` |
-| 0029 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [PY](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0030 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [Solution-2](./DSA/General/trapping-rainwater/Solution-2.py) | ⚪ Unspecified | `General` | `2026-10-31` |
-| 0031 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0016 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [PY](./DSA/Strings/longest-substring-without-repeating-characters/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-01` |
+| 0017 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.py) [Solution-3](./DSA/General/majority-element-i/Solution-3.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0018 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [PY](./DSA/General/majority-element-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0019 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [PY](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0020 | [65. Merge two Sorted Lists](./DSA/Arrays/merge-sorted-lists-) | [PY](./DSA/Arrays/merge-sorted-lists-/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
+| 0021 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [PY](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0022 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [PY](./DSA/Recursion/next-permutation/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-23` |
+| 0023 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0024 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0025 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [Solution-2](./DSA/Bit-Manipulation/power-set-bit-manipulation/Solution-2.py) [PY](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.py) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-01` |
+| 0026 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [PY](./DSA/General/print-all-primes-till-n/solution.py) | ⚪ Unspecified | `General` | `2026-10-19` |
+| 0027 | [141. Rabin Karp Algorithm](./DSA/General/rabin-karp-algorithm) | [PY](./DSA/General/rabin-karp-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0028 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [PY](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-11-01` |
+| 0029 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [PY](./DSA/Bit-Manipulation/single-number---ii/solution.py) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-01` |
+| 0030 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [PY](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0031 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [Solution-2](./DSA/General/trapping-rainwater/Solution-2.py) | ⚪ Unspecified | `General` | `2026-10-31` |
+| 0032 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 
 ---
 
