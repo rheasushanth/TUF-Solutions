@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **34** | 0 | 34 | 0 | `2026-11-01` |
+| **35** | 0 | 35 | 0 | `2026-11-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (34)
+### DSA (35)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -46,10 +46,11 @@
 | 0028 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [PY](./DSA/General/print-all-primes-till-n/solution.py) | ⚪ Unspecified | `General` | `2026-10-19` |
 | 0029 | [141. Rabin Karp Algorithm](./DSA/General/rabin-karp-algorithm) | [PY](./DSA/General/rabin-karp-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-10-13` |
 | 0030 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [PY](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-11-01` |
-| 0031 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [PY](./DSA/Bit-Manipulation/single-number---ii/solution.py) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-01` |
-| 0032 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [PY](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0033 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [Solution-2](./DSA/General/trapping-rainwater/Solution-2.py) | ⚪ Unspecified | `General` | `2026-10-31` |
-| 0034 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0031 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [PY](./DSA/Linked-List/rotate-a-ll/solution.py) | ⚪ Unspecified | `Linked-List` | `2026-11-01` |
+| 0032 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [PY](./DSA/Bit-Manipulation/single-number---ii/solution.py) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-01` |
+| 0033 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [PY](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0034 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [Solution-2](./DSA/General/trapping-rainwater/Solution-2.py) | ⚪ Unspecified | `General` | `2026-10-31` |
+| 0035 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 
 ---
 
